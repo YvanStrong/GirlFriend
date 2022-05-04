@@ -1,2 +1,2 @@
 # GirlFriend
-This system will predict a women next ovilation period
+This system will predict a women next ovulation period
